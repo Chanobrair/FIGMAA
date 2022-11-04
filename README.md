@@ -1,1 +1,1 @@
-# FIGMAA
+# FIGMA
